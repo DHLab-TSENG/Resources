@@ -2,16 +2,20 @@
 List of resources for DHLab
 
 ## Tools
-- Coding book
-  - ICD-9 查詢 [Website](http://www.icd9data.com/)
-  - ICD-10 查詢轉換 [Website](http://www.icd10data.com/)
-  - 長庚醫院檢驗科網站 可查長庚院內檢驗代號、健保代號 [Website](https://www1.cgmh.org.tw/intr/intr2/c3920/sop/mastermanage.asp)
-  - 長庚藥品綜合查詢 可查長庚院內藥品代號 [Website1](https://www.cgmh.org.tw/stor/drug001.aspx) [Website2](http://cghasp.cgmh.org.tw/newmedic/medic_main.asp)
+### Coding book
+- ICD-9 查詢 [Website](http://www.icd9data.com/)
+- ICD-10 查詢轉換 [Website](http://www.icd10data.com/)
+- 長庚醫院檢驗科網站 可查長庚院內檢驗代號、健保代號 [Website](https://www1.cgmh.org.tw/intr/intr2/c3920/sop/mastermanage.asp)
+- 長庚藥品綜合查詢 可查長庚院內藥品代號 [Website1](https://www.cgmh.org.tw/stor/drug001.aspx) [Website2](http://cghasp.cgmh.org.tw/newmedic/medic_main.asp)
   
-- Data processing
-  - csvkit: xls to csv [Website](https://github.com/wireservice/csvkit)
+### Data processing
+- csvkit: xls to csv [Website](https://github.com/wireservice/csvkit)
     - [Batch code](https://github.com/DHLab-CGU/Resources/blob/master/Convert.bat)
 
+### Reference manager
+- Mendeley [Website](https://www.mendeley.com/)
+  - [使用教學](http://tul.blog.ntu.edu.tw/archives/5344)
+  
 ## Online Learning 
 
 - Data Science 專項課程 [Website](https://www.coursera.org/specializations/jhu-data-science)
