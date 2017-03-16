@@ -18,12 +18,12 @@ List of resources for DHLab
   
 ## Online Learning 
 
-- Data Science 專項課程 [Website](https://www.coursera.org/specializations/jhu-data-science)
-- Machine Learning Foundations (機器學習基石) [Website](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
-- Machine Learning Techniques (機器學習技法) [Website](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 - DataCamp [Website](https://www.datacamp.com/)
   - [R 語言導論](https://www.datacamp.com/community/open-courses/r-語言導論)
   - [資料框整理技巧](https://www.datacamp.com/community/open-courses/資料框整理技巧)
+- Data Science 專項課程 [Website](https://www.coursera.org/specializations/jhu-data-science)
+- Machine Learning Foundations (機器學習基石) [Website](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
+- Machine Learning Techniques (機器學習技法) [Website](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 - Udemy [Website](https://www.udemy.com/)
 
 ## Conferences
