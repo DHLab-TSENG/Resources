@@ -7,6 +7,7 @@ List of resources for DHLab
 - ICD-10 查詢轉換 [Website](http://www.icd10data.com/)
 - 長庚醫院檢驗科網站 可查長庚院內檢驗代號、健保代號 [Website](https://www1.cgmh.org.tw/intr/intr2/c3920/sop/mastermanage.asp)
 - 長庚藥品綜合查詢 可查長庚院內藥品代號 [Website1](https://www.cgmh.org.tw/stor/drug001.aspx) [Website2](http://cghasp.cgmh.org.tw/newmedic/medic_main.asp)
+- DHAnalysis R package [Source code](https://github.com/yijutseng/DHAnalysis)
   
 ### Data processing
 - csvkit: xls to csv [Website](https://github.com/wireservice/csvkit)
@@ -16,15 +17,25 @@ List of resources for DHLab
 - Mendeley [Website](https://www.mendeley.com/)
   - [使用教學](http://tul.blog.ntu.edu.tw/archives/5344)
   
-## Online Learning 
-
+## Online Learning
+### R
 - DataCamp [Website](https://www.datacamp.com/)
   - [R 語言導論](https://www.datacamp.com/community/open-courses/r-語言導論)
   - [資料框整理技巧](https://www.datacamp.com/community/open-courses/資料框整理技巧)
 - Data Science 專項課程 [Website](https://www.coursera.org/specializations/jhu-data-science)
+- 資料科學與R語言 [網頁版電子書](http://yijutseng.github.io/DataScienceRBook/)
+
+### Machine Learning
 - Machine Learning Foundations (機器學習基石) [Website](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
 - Machine Learning Techniques (機器學習技法) [Website](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
-- Udemy [Website](https://www.udemy.com/)
+
+### JavaScript
+- Eloquent JavaScript [電子書](http://eloquentjavascript.net/)
+- Codecademy JavaScript course [Website](https://www.codecademy.com/learn/javascript)
+  
+### React Native
+- Udemy: The Complete React Native and Redux Course [Website](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview)
+
 
 ## Conferences
 
