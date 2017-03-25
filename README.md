@@ -1,5 +1,5 @@
 # Resources
-List of resources for DHLab
+List of resources for [DHLab](https://dhlab-cgu.github.io) @ CGU, Taiwan
 
 ## Tools
 ### Coding book
