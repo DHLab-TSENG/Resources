@@ -58,7 +58,7 @@ BUT!!
 
 詳見[研究所需的各類技能與知識](https://github.com/DHLab-CGU/Resources)，條列如下:
 
-- R
+- R語言 (Python專精的話，可以不用學R)
 - 基本統計學
 - 資料分析流程
 - 資料視覺化
