@@ -5,11 +5,11 @@ Frequently Asked Questions and Answers for [DHLab](https://dhlab-cgu.github.io) 
 ***
 ### 我到底適不適合DHLab?
 
-如果妳/你有以下症頭：
+不管你是大學生還是研究生，只要妳/你有以下症頭：
 - 看到奇怪的數據，會在心中猜測原因，並想進一步看看自己猜的對不對
 - 看到沒有根據的傳說，會想著可以透過數據分析的方式來驗證傳說是否正常（當然是先Google）
 
-那DHLab可能會是妳/你想要加入的團隊！歡迎[寫信](mailto:yjtseng@mail.cgu.edu.tw)/[留言](https://github.com/DHLab-CGU/Resources/issues)/直接來[長庚大學資管系](http://im.cgu.edu.tw/files/15-1055-40381,c3987-1.php?Lang=zh-tw)敲門～
+並且願意學習程式語言，那DHLab可能會是妳/你想要加入的團隊！歡迎[寫信](mailto:yjtseng@mail.cgu.edu.tw)/[留言](https://github.com/DHLab-CGU/Resources/issues)/直接來[長庚大學資管系](http://im.cgu.edu.tw/files/15-1055-40381,c3987-1.php?Lang=zh-tw)敲門～
 
 BUT!!
 
