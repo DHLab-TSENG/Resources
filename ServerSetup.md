@@ -64,7 +64,6 @@ Last update: 2017/04/11
 
 - 安裝Xcode
   - 從App Store下載
-    - 帳密找 PI要
 
 - 安裝OS X Server
   - 從App Store下載
