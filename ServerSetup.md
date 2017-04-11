@@ -72,6 +72,7 @@ Last update: 2017/04/11
 
 - OS X Server管理設定
   - TBD
+  - 可遠端用個人帳密登入
 
 - React Native 相關安裝
   - https://facebook.github.io/react-native/docs/getting-started.html
