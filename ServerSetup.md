@@ -6,9 +6,9 @@ Last update: 2017/04/11
 ### 安裝ubuntu
 
 - 安裝Ubuntu 伺服器版本
-  - 從光碟安裝
-  - 安裝說明 https://www.ubuntu.com/download/server/install-ubuntu-server
-  - 中文網站 https://www.ubuntu-tw.org/
+  - 從光碟安裝
+  - 安裝說明 https://www.ubuntu.com/download/server/install-ubuntu-server
+  - 中文網站 https://www.ubuntu-tw.org/
 - ubuntu管理設定
   - TBD
 
