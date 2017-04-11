@@ -5,8 +5,10 @@ Last update: 2017/04/11
 
 ### 安裝ubuntu
 
-- 下載Ubuntu 伺服器版本
-  - https://www.ubuntu-tw.org/
+- 安裝Ubuntu 伺服器版本
+  - 從光碟安裝
+  - 安裝說明 https://www.ubuntu.com/download/server/install-ubuntu-server
+  - 中文網站 https://www.ubuntu-tw.org/
 - ubuntu管理設定
   - TBD
 
@@ -30,7 +32,9 @@ Last update: 2017/04/11
     - http://docs.rstudio.com/ide/server-pro/access-and-security.html
 
 
-## Windows Server
+
+
+## Windows Server資料機
 
 - 安裝Windows Server 2012
   - 從光碟安裝
@@ -44,7 +48,19 @@ Last update: 2017/04/11
 - SQL Server 2016管理設定
   - TBD
 
-## OS X Server
+## Windows Server開發機
+
+- 安裝Windows Server 2012
+  - 從光碟安裝
+
+- Windows Server 2012管理設定
+  - TBD
+  
+- React Native 相關安裝
+  - https://facebook.github.io/react-native/docs/getting-started.html
+    - 選Android, Windows，按照步驟安裝
+
+## OS X Server開發機
 
 - 安裝Xcode
   - 從App Store下載
