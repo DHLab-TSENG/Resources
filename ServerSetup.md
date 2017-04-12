@@ -56,7 +56,7 @@ Last update: 2017/04/11
   - 從光碟安裝
 
 - Windows Server 2012管理設定
-  - TBD
+  - https://www.youtube.com/watch?v=jt9mTMvDxqg&index=9&list=PLtQwQZqIvJLdsZczfIQImksQQM9WEXK5K
 
 - React Native 相關安裝
   - https://github.com/DHLab-CGU/Resources/blob/master/ReactNativeWinServerSetup.md
