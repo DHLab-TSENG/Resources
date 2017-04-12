@@ -39,7 +39,7 @@ Last update: 2017/04/11
 - 安裝Windows Server 2012
   - 從光碟安裝
   - https://www.youtube.com/watch?v=MkGG_uJbOtM&list=PLtQwQZqIvJLdsZczfIQImksQQM9WEXK5K&index=6
-  - 序號找PI索取
+  - 序號找PI索取
 
 - Windows Server 2012管理設定
   - https://www.youtube.com/watch?v=jt9mTMvDxqg&index=9&list=PLtQwQZqIvJLdsZczfIQImksQQM9WEXK5K
