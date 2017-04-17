@@ -1,5 +1,5 @@
 # React Native iOS Server Setup
-Last update: 2017/04/1７
+Last update: 2017/04/17
 
 - https://facebook.github.io/react-native/docs/getting-started.html
     - 選iOS, MacOS，按照步驟安裝
