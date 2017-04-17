@@ -17,3 +17,11 @@ Last update: 2017/04/17
 
   - https://github.com/Microsoft/vscode-react-native
     - React Native外掛使用說明
+
+- Android part
+
+Add the following lines to your ~/.profile (or equivalent) config file:
+
+export ANDROID_HOME=${HOME}/Library/Android/sdk
+export PATH=${PATH}:${ANDROID_HOME}/tools
+export PATH=${PATH}:${ANDROID_HOME}/platform-tools
