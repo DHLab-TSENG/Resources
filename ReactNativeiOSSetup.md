@@ -21,7 +21,12 @@ Last update: 2017/04/17
 - Android part
 
 Add the following lines to your ~/.profile (or equivalent) config file:
+Open .profile
 
+touch ~/.profile
+open -e !$
+
+Paste the following lines  
 export ANDROID_HOME=${HOME}/Library/Android/sdk
 export PATH=${PATH}:${ANDROID_HOME}/tools
 export PATH=${PATH}:${ANDROID_HOME}/platform-tools
