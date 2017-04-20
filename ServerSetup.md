@@ -13,6 +13,7 @@ Last update: 2017/04/20
 - ubuntu管理設定
   - 網路設定與固定IP設定方式 https://www.cyut.edu.tw/~ckhung/b/gnu/network.php
   - 防火牆設定 http://download.ithome.com.tw/article/index/id/974
+    - 設定規則請見 https://github.com/DHLab-CGU/Resources-Private
   - 桌面工具安裝方式 http://www.arthurtoday.com/2012/11/ubuntu-server-install-unity-gui.html
 
 ### 安裝R相關工具
