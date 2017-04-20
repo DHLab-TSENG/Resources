@@ -41,7 +41,6 @@ Last update: 2017/04/20
 
 - 安裝Windows Server 2016
   - 從光碟安裝
-  - https://www.youtube.com/watch?v=MkGG_uJbOtM&list=PLtQwQZqIvJLdsZczfIQImksQQM9WEXK5K&index=6
   - 序號找PI索取
 
 - Windows Server 2012管理設定
