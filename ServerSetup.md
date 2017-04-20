@@ -1,16 +1,17 @@
 # Server Setup
-Last update: 2017/04/11
+Last update: 2017/04/20
 
 ## Linux Server
 
 ### 安裝ubuntu
 
-- 安裝Ubuntu 伺服器版本
+- 安裝Ubuntu 16.04 伺服器版本
   - 從光碟安裝
   - 安裝說明 https://www.ubuntu.com/download/server/install-ubuntu-server
   - 中文網站 https://www.ubuntu-tw.org/
 - ubuntu管理設定
-  - TBD
+  - 網路設定與固定IP設定方式 https://www.cyut.edu.tw/~ckhung/b/gnu/network.php
+  - 防火牆設定 http://download.ithome.com.tw/article/index/id/974
 
 ### 安裝R相關工具
 - 安裝R
@@ -26,10 +27,10 @@ Last update: 2017/04/11
   - product key 找 PI要
 
 - RStudio Server Pro管理設定
-  - 使用者授權設定
-    - http://docs.rstudio.com/ide/server-pro/authenticating-users.html
-  - 安全性設定
-    - http://docs.rstudio.com/ide/server-pro/access-and-security.html
+  - Port設定 
+    - http://docs.rstudio.com/ide/server-pro/access-and-security.html#network-port-and-address
+  - 可連接ip設定
+    - http://docs.rstudio.com/ide/server-pro/access-and-security.html#ip-access-rules
 
 
 
