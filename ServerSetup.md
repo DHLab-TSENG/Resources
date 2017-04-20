@@ -8,10 +8,12 @@ Last update: 2017/04/20
 - 安裝Ubuntu 16.04 伺服器版本
   - 從光碟安裝
   - 安裝說明 https://www.ubuntu.com/download/server/install-ubuntu-server
+  - 中文step by step 安裝說明 https://magiclen.org/ubuntu-server-14-04/
   - 中文網站 https://www.ubuntu-tw.org/
 - ubuntu管理設定
-  - 網路設定與固定IP設定方式 https://www.cyut.edu.tw/~ckhung/b/gnu/network.php
-  - 防火牆設定 http://download.ithome.com.tw/article/index/id/974
+  - 網路設定與固定IP設定方式 https://www.cyut.edu.tw/~ckhung/b/gnu/network.php
+  - 防火牆設定 http://download.ithome.com.tw/article/index/id/974
+  - 桌面工具安裝方式 http://www.arthurtoday.com/2012/11/ubuntu-server-install-unity-gui.html
 
 ### 安裝R相關工具
 - 安裝R
@@ -27,18 +29,18 @@ Last update: 2017/04/20
   - product key 找 PI要
 
 - RStudio Server Pro管理設定
-  - Port設定 
-    - http://docs.rstudio.com/ide/server-pro/access-and-security.html#network-port-and-address
-  - 可連接ip設定
-    - http://docs.rstudio.com/ide/server-pro/access-and-security.html#ip-access-rules
+  - Port設定 
+    - http://docs.rstudio.com/ide/server-pro/access-and-security.html#network-port-and-address
+  - 可連接ip設定
+    - http://docs.rstudio.com/ide/server-pro/access-and-security.html#ip-access-rules
 
 
 
 
 ## Windows Server資料機
 
-- 安裝Windows Server 2012
-  - 從光碟安裝
+- 安裝Windows Server 2016
+  - 從光碟安裝
   - https://www.youtube.com/watch?v=MkGG_uJbOtM&list=PLtQwQZqIvJLdsZczfIQImksQQM9WEXK5K&index=6
   - 序號找PI索取
 
@@ -53,10 +55,10 @@ Last update: 2017/04/20
 
 ## Windows Server開發機
 
-- 安裝Windows Server 2012
-  - 從光碟安裝
+- 安裝Windows Server 2016
+  - 從光碟安裝
 
-- Windows Server 2012管理設定
+- Windows Server 2016管理設定
   - https://www.youtube.com/watch?v=jt9mTMvDxqg&index=9&list=PLtQwQZqIvJLdsZczfIQImksQQM9WEXK5K
 
 - React Native 相關安裝
