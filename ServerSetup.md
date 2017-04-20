@@ -40,7 +40,7 @@ Last update: 2017/04/20
 ## Windows Server資料機
 
 - 安裝Windows Server 2016
-  - 從光碟安裝
+  - 從光碟安裝
   - https://www.youtube.com/watch?v=MkGG_uJbOtM&list=PLtQwQZqIvJLdsZczfIQImksQQM9WEXK5K&index=6
   - 序號找PI索取
 
@@ -56,7 +56,7 @@ Last update: 2017/04/20
 ## Windows Server開發機
 
 - 安裝Windows Server 2016
-  - 從光碟安裝
+  - 從光碟安裝
 
 - Windows Server 2016管理設定
   - https://www.youtube.com/watch?v=jt9mTMvDxqg&index=9&list=PLtQwQZqIvJLdsZczfIQImksQQM9WEXK5K
