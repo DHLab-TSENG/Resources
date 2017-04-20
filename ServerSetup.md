@@ -40,6 +40,7 @@ Last update: 2017/04/20
 
 https://blogs.msdn.microsoft.com/sqlnativeclient/2016/10/20/odbc-driver-13-0-for-linux-released/
 https://www.r-bloggers.com/installing-rstudio-server-on-ubuntu-server/
+https://support.rstudio.com/hc/en-us/articles/214510788-Setting-up-R-to-connect-to-SQL-Server-
 
 ## Windows Server資料機
 
