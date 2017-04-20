@@ -36,11 +36,9 @@ Last update: 2017/04/20
     - http://docs.rstudio.com/ide/server-pro/access-and-security.html#ip-access-rules
 
 - RStudio Server to SQL Server
-
-
-https://blogs.msdn.microsoft.com/sqlnativeclient/2016/10/20/odbc-driver-13-0-for-linux-released/
-https://www.r-bloggers.com/installing-rstudio-server-on-ubuntu-server/
-https://support.rstudio.com/hc/en-us/articles/214510788-Setting-up-R-to-connect-to-SQL-Server-
+  - ODBC driver https://blogs.msdn.microsoft.com/sqlnativeclient/2016/10/20/odbc-driver-13-0-for-linux-released/
+  - 安裝RODBC package for all user `sudo apt-get install r-cran-rodbc`
+  - 連接方法 https://support.rstudio.com/hc/en-us/articles/214510788-Setting-up-R-to-connect-to-SQL-Server-
 
 ## Windows Server資料機
 
@@ -48,7 +46,7 @@ https://support.rstudio.com/hc/en-us/articles/214510788-Setting-up-R-to-connect-
   - 從光碟安裝
   - 序號找PI索取
 
-- Windows Server 2012管理設定
+- Windows Server 2016管理設定
   - https://www.youtube.com/watch?v=jt9mTMvDxqg&index=9&list=PLtQwQZqIvJLdsZczfIQImksQQM9WEXK5K
 
 - 安裝SQL Server 2016
