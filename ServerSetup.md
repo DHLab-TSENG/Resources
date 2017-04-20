@@ -53,7 +53,8 @@ Last update: 2017/04/20
   - 從光碟安裝
 
 - SQL Server 2016管理設定
-  - TBD
+  - SQL與Windows驗證
+  - 開防火牆1433Port
 
 ## Windows Server開發機
 
