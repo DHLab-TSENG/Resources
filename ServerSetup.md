@@ -35,8 +35,11 @@ Last update: 2017/04/20
   - 可連接ip設定
     - http://docs.rstudio.com/ide/server-pro/access-and-security.html#ip-access-rules
 
+- RStudio Server to SQL Server
 
 
+https://blogs.msdn.microsoft.com/sqlnativeclient/2016/10/20/odbc-driver-13-0-for-linux-released/
+https://www.r-bloggers.com/installing-rstudio-server-on-ubuntu-server/
 
 ## Windows Server資料機
 
