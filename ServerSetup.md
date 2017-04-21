@@ -58,6 +58,7 @@ Last update: 2017/04/20
   
 - Elasticsearch
   - http://stackoverflow.com/questions/40540123/elasticsearch-windows-service-not-work-on-nano-server
+  - https://www.elastic.co/webinars/getting-started-elasticsearch
   
   
 ## Windows Server開發機
