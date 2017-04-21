@@ -55,7 +55,11 @@ Last update: 2017/04/20
 - SQL Server 2016管理設定
   - SQL與Windows驗證
   - 開防火牆1433Port
-
+  
+- Elasticsearch
+  - http://stackoverflow.com/questions/40540123/elasticsearch-windows-service-not-work-on-nano-server
+  
+  
 ## Windows Server開發機
 
 - 安裝Windows Server 2016
