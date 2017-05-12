@@ -1,5 +1,5 @@
 # Server Setup
-Last update: 2017/04/20
+Last update: 2017/05/12
 
 ## Linux Server
 
