@@ -40,6 +40,15 @@ Last update: 2017/04/20
   - 安裝RODBC package for all user `sudo apt-get install r-cran-rodbc`
   - 連接方法 https://support.rstudio.com/hc/en-us/articles/214510788-Setting-up-R-to-connect-to-SQL-Server-
 
+- 套件安裝
+
+以下為已安裝之共用套件
+```{r}
+install.packages(c("curl","RCurl","Rcpp","readr","dplyr","data.table","bit64",
+                   "ggplot2","stringr","tidyr","rvest","lubridate","readxl",
+                   "jeibaR","devtools","icd"), lib="/usr/local/lib/R/site-library")
+```
+
 ## Windows Server資料機
 
 - 安裝Windows Server 2016
