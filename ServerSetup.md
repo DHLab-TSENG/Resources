@@ -46,7 +46,7 @@ Last update: 2017/05/12
 ```{r}
 install.packages(c("curl","RCurl","Rcpp","readr","dplyr","data.table","bit64",
                    "ggplot2","stringr","tidyr","rvest","lubridate","readxl",
-                   "jiebaR","devtools","icd","rJava","RSQLServer"), lib="/usr/local/lib/R/site-library")
+                   "jiebaR","devtools","icd","rJava","RSQLServer","RODBC"), lib="/usr/local/lib/R/site-library")
 install.packages(c("caret"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends", "Suggests"))                      
 ```
 
