@@ -47,7 +47,8 @@ Last update: 2017/05/12
 install.packages(c("curl","RCurl","Rcpp","readr","dplyr","data.table","bit64",
                    "ggplot2","stringr","tidyr","rvest","lubridate","readxl",
                    "jiebaR","devtools","icd","rJava","RSQLServer","RODBC"), lib="/usr/local/lib/R/site-library")
-install.packages(c("caret"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends", "Suggests"))                      
+install.packages(c("caret"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends", "Suggests"))
+install.packages(c("curl","jsonlite","foreign","openxlsx","elastic","sas7bdat"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends", "Suggests"))
 ```
 
 ## Windows Server資料機
