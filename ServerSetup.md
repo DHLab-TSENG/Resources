@@ -40,13 +40,12 @@ Last update: 2017/05/12
   - 安裝RODBC package for all user `sudo apt-get install r-cran-rodbc`
   - 連接方法 https://support.rstudio.com/hc/en-us/articles/214510788-Setting-up-R-to-connect-to-SQL-Server-
 
-- 套件安裝
+- 套件安裝，必須在終端機畫面，用sudo R進入R程式 (需root權限)，輸入以下語法
 
-以下為已安裝之共用套件
 ```{r}
 install.packages(c("curl","RCurl","Rcpp","readr","dplyr","data.table","bit64",
                    "ggplot2","stringr","tidyr","rvest","lubridate","readxl",
-                   "jiebaR","devtools","icd","rJava","RSQLServer","RODBC"), lib="/usr/local/lib/R/site-library")
+                   "jiebaR","devtools","icd","rJava","RSQLServer","RODBC","cronR","shiny","miniUI","shinyFiles"), lib="/usr/local/lib/R/site-library")
 install.packages(c("caret"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends", "Suggests"))
 install.packages(c("curl","jsonlite","foreign","openxlsx","elastic","sas7bdat"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends", "Suggests"))
 ```
