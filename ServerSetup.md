@@ -16,6 +16,10 @@ Last update: 2017/05/12
     - 設定規則請見 https://github.com/DHLab-CGU/Resources-Private
   - 桌面工具安裝方式 http://www.arthurtoday.com/2012/11/ubuntu-server-install-unity-gui.html
 
+- 舊機轉移
+  - https://www.phpini.com/linux/linux-server-migrate-user-accounts
+  - http://jack197247.pixnet.net/blog/post/21988637-linux%E5%B8%B3%E8%99%9F%E5%8F%8A%E5%AE%B6%E7%9B%AE%E9%8C%84%E9%83%B5%E4%BB%B6%E7%A7%BB%E8%BD%89%E8%87%B3%E6%96%B0%E6%A9%9F
+  
 ### 安裝R相關工具
 - 安裝R
   - https://cran.rstudio.com/bin/linux/ubuntu/README.html
