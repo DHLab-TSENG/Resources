@@ -1,4 +1,6 @@
 
+For windows user: download [putty](https://www.putty.org/)
+
 Reference: http://samwhelp.github.io/book-ubuntu-qna/read/case/file-archiving-and-compression/zip/unzip-big5
 
 ```
