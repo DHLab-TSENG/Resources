@@ -4,4 +4,4 @@
 
 須改權限
 
-sudo chmod 664 BreastCancer
+sudo chmod 777 BreastCancer
