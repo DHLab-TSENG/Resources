@@ -11,7 +11,7 @@ List of resources for [DHLab](https://dhlab-cgu.github.io) @ CGU, Taiwan
 ### Data processing
 - csvkit: xls to csv [Website](https://github.com/wireservice/csvkit)
     - [Batch code](https://github.com/DHLab-CGU/Resources/blob/master/Convert.bat)
-- DHAnalysis R package [Source code](https://github.com/yijutseng/DHAnalysis)
+- emr R package [Source code](https://github.com/DHLab-CGU/emr)
 
 ### Reference manager
 - Mendeley [Website](https://www.mendeley.com/)
@@ -61,4 +61,4 @@ List of resources for [DHLab](https://dhlab-cgu.github.io) @ CGU, Taiwan
 
 ## 有關程式
 
-- 在R中有效的使用路降 [開始寫R程式前應知道的好習慣](https://github.com/DHLab-CGU/Resources/blob/master/RPathUse.md)
+- 在R中有效的使用路徑 [開始寫R程式前應知道的好習慣](https://github.com/DHLab-CGU/Resources/blob/master/RPathUse.md)
