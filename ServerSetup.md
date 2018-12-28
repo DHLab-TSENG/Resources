@@ -52,6 +52,8 @@ install.packages(c("curl","RCurl","Rcpp","readr","dplyr","data.table","bit64",
                    "jiebaR","devtools","icd","rJava","RSQLServer","RODBC","cronR","shiny","miniUI","shinyFiles"), lib="/usr/local/lib/R/site-library")
 install.packages(c("caret"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends", "Suggests"))
 install.packages(c("curl","jsonlite","foreign","openxlsx","elastic","sas7bdat"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends", "Suggests"))
+install.packages(c("choroplethr","choroplethrMaps"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends", "Suggests"))
+
 ```
 
 ## Windows Server資料機
