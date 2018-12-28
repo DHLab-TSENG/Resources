@@ -1,5 +1,5 @@
 # Server Setup
-Last update: 2017/05/12
+Last update: 2018/12/29
 
 ## Linux Server
 
@@ -44,6 +44,22 @@ Last update: 2017/05/12
   - 安裝RODBC package for all user `sudo apt-get install r-cran-rodbc`
   - 連接方法 https://support.rstudio.com/hc/en-us/articles/214510788-Setting-up-R-to-connect-to-SQL-Server-
 
+- 安裝套件所需元件
+
+https://stackoverflow.com/questions/15248815/rgdal-package-installation
+https://github.com/datacarpentry/r-raster-vector-geospatial/issues/138
+```
+sudo apt install apt-file
+apt-file purge
+sudo apt-file update 
+apt-cache search libgdal
+sudo apt-get install libgdal1-dev proj-data proj-bin 
+sudo apt-get install libxml2-dev
+sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
+sudo apt-get update
+sudo apt-get install libudunits2-dev libgdal-dev libgeos-dev libproj-dev
+```
+
 - 套件安裝，必須在終端機畫面，用sudo R進入R程式 (需root權限)，輸入以下語法
 
 ```{r}
@@ -52,6 +68,7 @@ install.packages(c("curl","RCurl","Rcpp","readr","dplyr","data.table","bit64",
                    "jiebaR","devtools","icd","rJava","RSQLServer","RODBC","cronR","shiny","miniUI","shinyFiles"), lib="/usr/local/lib/R/site-library")
 install.packages(c("caret"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends", "Suggests"))
 install.packages(c("curl","jsonlite","foreign","openxlsx","elastic","sas7bdat"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends", "Suggests"))
+install.packages(c("sf"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
 install.packages(c("choroplethr","choroplethrMaps"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends", "Suggests"))
 
 ```
