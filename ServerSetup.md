@@ -58,18 +58,28 @@ sudo apt-get install libxml2-dev
 sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
 sudo apt-get update
 sudo apt-get install libudunits2-dev libgdal-dev libgeos-dev libproj-dev
+sudo apt-get install default-jre
+sudo apt-get install default-jdk
+sudo R CMD javareconf
+sudo apt-get install r-cran-rjava
 ```
 
 - 套件安裝，必須在終端機畫面，用sudo R進入R程式 (需root權限)，輸入以下語法
 
 ```{r}
-install.packages(c("curl","RCurl","Rcpp","readr","dplyr","data.table","bit64",
-                   "ggplot2","stringr","tidyr","rvest","lubridate","readxl",
-                   "jiebaR","devtools","icd","rJava","RSQLServer","RODBC","cronR","shiny","miniUI","shinyFiles"), lib="/usr/local/lib/R/site-library")
-install.packages(c("caret"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends", "Suggests"))
-install.packages(c("curl","jsonlite","foreign","openxlsx","elastic","sas7bdat"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends", "Suggests"))
+
+install.packages(c("scales"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
+install.packages(c("bitops","curl","RCurl","Rcpp","readr","dplyr","data.table","bit64","ggplot2","stringr","tidyr","rvest","lubridate","readxl","jiebaR","devtools","icd","rJava","RODBC","cronR","shiny","miniUI","shinyFiles"), lib="/usr/local/lib/R/site-library")
+install.packages(c("jsonlite","foreign","openxlsx","elastic","sas7bdat"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends", "Suggests"))
+withr::with_libpaths(new = "/usr/lib/R/site-library/", devtools::install_github('imanuelcostigan/RSQLServer'))
+
+install.packages(c("caret"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends","Suggests"))
 install.packages(c("sf"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
+install.packages(c("rgdal"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
+install.packages(c("tigris"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
 install.packages(c("choroplethr","choroplethrMaps"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends", "Suggests"))
+
+update.packages(lib.loc = "/usr/local/lib/R/site-library",check.built=TRUE,ask=FALSE)
 
 ```
 
