@@ -98,6 +98,9 @@ install.packages(c( "uroot"), lib="/usr/local/lib/R/site-library", dependencies 
 
 install.packages(c("quantmod","quadprog","tseries","fracdiff","urca","forecast"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
 
+install.packages(c("config", "tfruns","tensorflow"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
+install.packages(c("zeallot","keras"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
+
 update.packages(lib.loc = "/usr/local/lib/R/site-library",check.built=TRUE,ask=FALSE)
 
 ```
