@@ -64,6 +64,9 @@ sudo R CMD javareconf
 sudo apt-get install r-cran-rjava
 sudo apt-get install libcairo2-dev
 sudo apt-get install libxt-dev
+export LD_LIBRARY_PATH=/usr/local/cuda-9.2/lib64:$LD_LIBRARY_PATH
+export PATH=/usr/local/cuda-9.2/bin:$PATH
+sudo ldconfig /usr/local/cuda-9.2/lib64
 ```
 
 - 套件安裝，必須在終端機畫面，用sudo R進入R程式 (需root權限)，輸入以下語法
@@ -91,6 +94,9 @@ install.packages(c("sf"), lib="/usr/local/lib/R/site-library", dependencies = c(
 install.packages(c("rgdal"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
 install.packages(c("tigris"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
 install.packages(c("choroplethr","choroplethrMaps"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends", "Suggests"))
+install.packages(c( "uroot"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
+
+install.packages(c("quantmod","quadprog","tseries","fracdiff","urca","forecast"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
 
 update.packages(lib.loc = "/usr/local/lib/R/site-library",check.built=TRUE,ask=FALSE)
 
