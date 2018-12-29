@@ -62,6 +62,8 @@ sudo apt-get install default-jre
 sudo apt-get install default-jdk
 sudo R CMD javareconf
 sudo apt-get install r-cran-rjava
+sudo apt-get install libcairo2-dev
+sudo apt-get install libxt-dev
 ```
 
 - 套件安裝，必須在終端機畫面，用sudo R進入R程式 (需root權限)，輸入以下語法
@@ -70,10 +72,21 @@ sudo apt-get install r-cran-rjava
 
 install.packages(c("scales"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
 install.packages(c("bitops","curl","RCurl","Rcpp","readr","dplyr","data.table","bit64","ggplot2","stringr","tidyr","rvest","lubridate","readxl","jiebaR","devtools","icd","rJava","RODBC","cronR","shiny","miniUI","shinyFiles"), lib="/usr/local/lib/R/site-library")
+
+
+install.packages(c("Cairo"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
+install.packages(c("crosstalk","htmlwidgets","DT"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
+install.packages(c("R.cache","R.methodsS3", "R.oo", "R.utils","R.devices"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends", "Suggests"))
+install.packages(c("brew", "commonmark","roxygen2"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
+install.packages(c("rex","covr"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
+install.packages(c("tinytex","rmarkdown","tufte"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
+install.packages(c(), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
+
 install.packages(c("jsonlite","foreign","openxlsx","elastic","sas7bdat"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends", "Suggests"))
 withr::with_libpaths(new = "/usr/lib/R/site-library/", devtools::install_github('imanuelcostigan/RSQLServer'))
 
-install.packages(c("caret"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends","Suggests"))
+install.packages(c("repr","snakecase","caTools","","questionr","ROCR","caret"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends","Suggests"))
+
 install.packages(c("sf"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
 install.packages(c("rgdal"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
 install.packages(c("tigris"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
