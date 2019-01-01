@@ -113,7 +113,7 @@ install.packages(c("quantmod","quadprog","tseries","fracdiff","urca","forecast")
 
 install.packages(c("config", "tfruns","tensorflow"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
 install.packages(c("zeallot","keras"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
-install.packages(c("tableone"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
+install.packages(c("lme4","lmerTest","tableone"), lib="/usr/local/lib/R/site-library", dependencies = c("Depends"))
 
 update.packages(lib.loc = "/usr/local/lib/R/site-library",check.built=TRUE,ask=FALSE)
 
