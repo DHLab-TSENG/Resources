@@ -1,5 +1,5 @@
 # Server Setup
-Last update: 2018/12/29
+Last update: 2019/01/01
 
 ## Linux Server
 
@@ -66,7 +66,20 @@ sudo apt-get install libcairo2-dev
 sudo apt-get install libxt-dev
 export LD_LIBRARY_PATH=/usr/local/cuda-9.2/lib64:$LD_LIBRARY_PATH
 export PATH=/usr/local/cuda-9.2/bin:$PATH
+
 sudo ldconfig /usr/local/cuda-9.2/lib64
+sudo su 
+curl https://packages.microsoft.com/keys/microsoft.asc | apt-key add -
+curl https://packages.microsoft.com/config/ubuntu/16.04/prod.list > /etc/apt/sources.list.d/mssql-release.list
+exit
+sudo apt-get update
+sudo ACCEPT_EULA=Y apt-get install libodbc1-utf16 odbcinst1debian2-utf16 unixodbc-utf16 msodbcsql=13.0.1.0-1 mssql-tools=14.0.2.0-1 
+#Create symlinks for tools
+sudo ln -sfn /opt/mssql-tools/bin/sqlcmd-13.0.1.0 /usr/bin/sqlcmd 
+sudo ln -sfn /opt/mssql-tools/bin/bcp-13.0.1.0 /usr/bin/bcp
+
+sudo R CMD javareconf
+
 ```
 
 - 套件安裝，必須在終端機畫面，用sudo R進入R程式 (需root權限)，輸入以下語法
