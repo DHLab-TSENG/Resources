@@ -35,7 +35,7 @@ sudo vim ~/API/test.R
 
 library(plumber)
 pr <- plumb('~/API/firstAPI.R')
-pr$run(port=4000)
+pr$run(host="0.0.0.0", port=4000)
 ```
 
 ## 確定Ubuntu上有R以及會用到的套件
