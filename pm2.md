@@ -69,11 +69,8 @@ sudo pm2 start --interpreter="Rscript" test.R
 sudo pm2 show test
 ```
 
-##
-生成ecosystem.config.js
+## 如Ubuntu有防火牆，記得開啟對應的port
+以4000為例
 ```
-sudo pm2 ecosystem
-```
-```
-sudo pm2 start ecosystem.config.js
+sudo ufw allow ssh
 ```
