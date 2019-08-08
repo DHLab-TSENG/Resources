@@ -74,3 +74,8 @@ sudo pm2 show test
 ```
 sudo ufw allow ssh
 ```
+
+## HTTPS設定
+https://free.com.tw/ssl-for-free/    
+https://www.zhaofinger.com/detail/5  
+http://pm2.keymetrics.io/docs/tutorials/pm2-nginx-production-setup  
