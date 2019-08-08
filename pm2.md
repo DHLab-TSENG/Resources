@@ -68,3 +68,12 @@ sudo pm2 start --interpreter="Rscript" test.R
 ```
 sudo pm2 show test
 ```
+
+##
+生成ecosystem.config.js
+```
+sudo pm2 ecosystem
+```
+```
+sudo pm2 start ecosystem.config.js
+```
