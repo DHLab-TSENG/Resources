@@ -72,7 +72,7 @@ sudo pm2 show test
 ## 如Ubuntu有防火牆，記得開啟對應的port
 以4000為例
 ```
-sudo ufw allow ssh
+sudo ufw allow 4000
 ```
 
 ## HTTPS設定
