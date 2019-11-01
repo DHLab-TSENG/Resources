@@ -25,6 +25,7 @@ List of resources for [DHLab](https://dhlab-cgu.github.io) @ CGU, Taiwan
   - [Machine Learning with R SKILL TRACK](https://www.datacamp.com/tracks/machine-learning)
 - Data Science 專項課程 [Website](https://www.coursera.org/specializations/jhu-data-science)
 - 資料科學與R語言 [網頁版電子書](http://yijutseng.github.io/DataScienceRBook/)
+- 資料科學與R語言 [教學影片](http://yijutseng.github.io/DataScienceRBook/video.html#video)
 
 ### Machine Learning
 - Machine Learning Foundations (機器學習基石) [Website](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
