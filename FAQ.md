@@ -1,5 +1,5 @@
 # FAQ
-Frequently Asked Questions and Answers for [DHLab](https://dhlab-cgu.github.io) @ CGU, Taiwan
+Frequently Asked Questions and Answers for [DHLab](https://dhlab-tseng.github.io) @ NCU, Taiwan
 ***
 ## Thinking of joining us?
 ***
@@ -9,7 +9,7 @@ Frequently Asked Questions and Answers for [DHLab](https://dhlab-cgu.github.io) 
 - 看到奇怪的數據，會在心中猜測原因，並想進一步看看自己猜的對不對
 - 看到沒有根據的傳說，會想著可以透過數據分析的方式來驗證傳說是否正常（當然是先Google）
 
-並且願意學習程式語言，那DHLab可能會是妳/你想要加入的團隊！歡迎[寫信](mailto:dhlab.cgu@gmail.com)/[留言](https://github.com/DHLab-CGU/Resources/issues)/直接來[長庚大學資管系](http://im.cgu.edu.tw/files/15-1055-40381,c3987-1.php?Lang=zh-tw)敲門～
+並且願意學習程式語言，那DHLab可能會是妳/你想要加入的團隊！歡迎[寫信](mailto:dhlab.tseng@gmail.com)/[留言](https://github.com/DHLab-TSENG/Resources/issues)/直接來[中央大學資管系](https://im.mgt.ncu.edu.tw/teacher)敲門～
 
 BUT!!
 
@@ -17,13 +17,15 @@ BUT!!
 
 因為這些資料將是妳/你做研究的好～夥～伴～（~~陰魂不散~~）。
 
+另外若對醫學研究/名詞害怕，可先看一下實驗室最近的[碩士論文](https://ndltd.ncl.edu.tw/)與[期刊論文](https://orcid.org/0000-0002-1814-5553)發表，看看是不是自己喜歡的，再做決定。
+
 
 
 ### 在DHLab的每日時間分配
 
 只要研究進度合理，隨便分配、自由分配。
 
-通常碩士班學生除了研究外，也有蠻多時間在修課跟寫作業，還有學習[研究所需的各類技能與知識](https://github.com/DHLab-CGU/Resources)。
+通常碩士班學生除了研究外，也有蠻多時間在修課跟寫作業，還有學習[研究所需的各類技能與知識](https://github.com/DHLab-TSENG/Resources)。
 
 
 
@@ -59,7 +61,7 @@ BUT!!
 ***
 ### 基本技能學習
 
-詳見[研究所需的各類技能與知識](https://github.com/DHLab-CGU/Resources)，條列如下:
+詳見[研究所需的各類技能與知識](https://github.com/DHLab-TSENG/Resources)，條列如下:
 
 - R語言 (Python專精的話，可以不用學R)
 - 基本統計學
@@ -88,10 +90,9 @@ DHLab開會分為**個人進度報告**跟**團體報告**，目的不同，因�
 ***
 ### 學長姊畢業後...?
 
-n=4
-
-- CIM系統工程師 *2
-- 數據分析師 *1
-- 資訊工程師 *1
+- CIM系統工程師
+- 數據分析師
+- 資訊工程師
+- 資訊護理師
 
 問題累積中
