@@ -1,5 +1,8 @@
 # Resources
-List of resources for [DHLab](https://dhlab-cgu.github.io) @ CGU, Taiwan
+List of resources for [DHLab](https://dhlab-tseng.github.io) @ NCU, Taiwan
+
+## 來辦公室敲門前
+- 常見問與答 [FAQ](https://github.com/DHLab-TSENG/Resources/blob/master/FAQ.md)
 
 ## Tools
 ### Coding book
