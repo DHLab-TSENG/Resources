@@ -42,6 +42,13 @@ List of resources for [DHLab](https://dhlab-tseng.github.io) @ NCU, Taiwan
 ### React Native
 - Udemy: The Complete React Native and Redux Course [Website](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview)
 
+## Journals
+
+- Journal of the American Medical Informatics Association
+- International Journal of Medical Informatics
+- IEEE Journal of Biomedical and Health Informatics
+- Journal of Medical Internet Research
+- and others....
 
 ## Conferences
 
