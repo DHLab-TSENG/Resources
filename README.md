@@ -14,7 +14,7 @@ List of resources for [DHLab](https://dhlab-tseng.github.io) @ NCU, Taiwan
 ### Data processing
 - csvkit: xls to csv [Website](https://github.com/wireservice/csvkit)
     - [Batch code](https://github.com/DHLab-CGU/Resources/blob/master/Convert.bat)
-- emr R package [Source code](https://github.com/DHLab-CGU/emr)
+- dxpr R package [Source code](https://github.com/DHLab-CGU/dxpr)
 
 ### Reference manager
 - Mendeley [Website](https://www.mendeley.com/)
