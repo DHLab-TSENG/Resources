@@ -52,11 +52,12 @@ List of resources for [DHLab](https://dhlab-tseng.github.io) @ NCU, Taiwan
 
 ## Conferences
 
-- AMIA Annual Symposium [2017](https://www.amia.org/amia2017), [2018](https://www.amia.org/amia2018)
-- Medical Informatics Europe [2017](http://informaticsforhealth.org/), [2018](https://mie2018.org/)
-- MedInfo [2017](http://medinfo2017.medmeeting.org/en), [2019](http://www.medinfo-lyon.org/en/)
-- International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) [2017](http://embc.embs.org/2017/), [2018](http://embc.embs.org/2018/)
-- APAMI http://www.apami.org/
+- AMIA Annual Symposium 
+- Medical Informatics Europe (MIE)
+- MedInfo 
+- IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI)
+- International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 
+- Conference of the Asia-Pacific Association for Medical Informatics (APAMI)
 
 ## Associations
 
