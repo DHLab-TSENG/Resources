@@ -34,7 +34,7 @@ List of resources for [DHLab](https://dhlab-tseng.github.io) @ NCU, Taiwan
 - Machine Learning Foundations (機器學習基石) [Website](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
 - Machine Learning Techniques (機器學習技法) [Website](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 - DataCamp Machine Learning with R SKILL TRACK [Website](https://www.datacamp.com/tracks/machine-learning)
-- Liu Y, Chen PH, Krause J, Peng L. How to Read Articles That Use Machine Learning: Users' Guides to the Medical Literature. JAMA, 2019. [paper](https://paperpile.com/shared/Jtc1tu)
+- Liu Y, Chen PH, Krause J, Peng L. How to Read Articles That Use Machine Learning: Users' Guides to the Medical Literature. JAMA, 2019. [Paper](https://paperpile.com/shared/Jtc1tu)
 
 ### JavaScript
 - Eloquent JavaScript [電子書](http://eloquentjavascript.net/)
