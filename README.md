@@ -49,7 +49,9 @@ List of resources for [DHLab](https://dhlab-tseng.github.io) @ NCU, Taiwan
 - International Journal of Medical Informatics
 - IEEE Journal of Biomedical and Health Informatics
 - Journal of Medical Internet Research
-- and others....
+- npj Digital Medicine
+- COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE
+- and others...., such as JAMA Network Open, Scientific Reports, Nature communications...
 
 ## Conferences
 
