@@ -30,7 +30,17 @@ List of resources for [DHLab](https://dhlab-tseng.github.io) @ NCU, Taiwan
 - 資料科學與R語言 [網頁版電子書](http://yijutseng.github.io/DataScienceRBook/)
 - 資料科學與R語言 [教學影片](http://yijutseng.github.io/DataScienceRBook/video.html#video)
 
+### Python
+- kaggle - python [Website](https://www.kaggle.com/learn/python)
+- kaggle - pandas [Website](https://www.kaggle.com/learn/pandas)
+- kaggle - data cleaning [Website](https://www.kaggle.com/learn/data-cleaning)
+
 ### Machine Learning
+- kaggle - python - Intro to machine learning [Website](https://www.kaggle.com/learn/intro-to-machine-learning)
+- kaggle - python - Intermediate machine learning [Website](https://www.kaggle.com/learn/intermediate-machine-learning)
+- kaggle - python - Machine Learning Explainability [Website](https://www.kaggle.com/learn/machine-learning-explainability)
+- kaggle - python - Intro to Deep Learning [Website](https://www.kaggle.com/learn/intro-to-deep-learning)
+- DeepLearning.AI - AI for Medicine Specialization [Website](https://www.deeplearning.ai/program/ai-for-medicine-specialization/)
 - Machine Learning Foundations (機器學習基石) [Website](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
 - Machine Learning Techniques (機器學習技法) [Website](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 - DataCamp Machine Learning with R SKILL TRACK [Website](https://www.datacamp.com/tracks/machine-learning)
