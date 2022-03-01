@@ -19,7 +19,7 @@ List of resources for [DHLab](https://dhlab-tseng.github.io) @ NYCU, Taiwan
 ### Reference manager
 - Mendeley [Website](https://www.mendeley.com/)
   - [使用教學](http://tul.blog.ntu.edu.tw/archives/5344)
-
+- EndNote
   
 ## Online Learning
 ### R
