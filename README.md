@@ -1,5 +1,5 @@
 # Resources
-List of resources for [DHLab](https://dhlab-tseng.github.io) @ NCU, Taiwan
+List of resources for [DHLab](https://dhlab-tseng.github.io) @ NYCU, Taiwan
 
 ## 來辦公室敲門前
 - 常見問與答 [FAQ](https://github.com/DHLab-TSENG/Resources/blob/master/FAQ.md)
