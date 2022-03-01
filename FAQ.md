@@ -1,5 +1,5 @@
 # FAQ
-Frequently Asked Questions and Answers for [DHLab](https://dhlab-tseng.github.io) @ NCU, Taiwan
+Frequently Asked Questions and Answers for [DHLab](https://dhlab-tseng.github.io) @ NYCU, Taiwan
 ***
 ## Thinking of joining us?
 ***
