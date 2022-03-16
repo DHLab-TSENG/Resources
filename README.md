@@ -37,7 +37,7 @@ List of resources for [DHLab](https://dhlab-tseng.github.io) @ NYCU, Taiwan
 - kaggle - data cleaning [Website](https://www.kaggle.com/learn/data-cleaning)
 
 ### Machine Learning
-- tidymodel - R - Tidy Modeling with R [Website] (https://www.tmwr.org/)
+- tidymodel - R - Tidy Modeling with R [Website](https://www.tmwr.org/)
 - kaggle - python - Intro to machine learning [Website](https://www.kaggle.com/learn/intro-to-machine-learning)
 - kaggle - python - Intermediate machine learning [Website](https://www.kaggle.com/learn/intermediate-machine-learning)
 - kaggle - python - Machine Learning Explainability [Website](https://www.kaggle.com/learn/machine-learning-explainability)
