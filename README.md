@@ -24,7 +24,8 @@ List of resources for [DHLab](https://dhlab-tseng.github.io) @ NYCU, Taiwan
 ## Online Learning
 ### ML in medicine
 - [Transparent reporting of a multivariable prediction model for individual prognosis or diagnosis](https://www.equator-network.org/reporting-guidelines/tripod-statement/)
-
+- [The need to separate the wheat from the chaff in medical informatics: Introducing a comprehensive checklist for the (self)-assessment of medical AI studies](https://www.sciencedirect.com/science/article/pii/S1386505621001362)
+ 
 ### R
 - DataCamp [Website](https://www.datacamp.com/)
   - [R 語言導論](https://www.datacamp.com/community/open-courses/r-語言導論)
