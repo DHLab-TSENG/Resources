@@ -34,9 +34,8 @@ BUT!!
 實驗室提供各項研究與教學資源，包括:
 - 研究支援
     - RStudio Server
-    - MS SQL Server
-    - OS X Server
-    - Linux Server
+    - GeForce RTX 3090 GPU 
+    - 研究用電腦等
 
 - 持續學習支援
     - R與Python線上學習帳號 
