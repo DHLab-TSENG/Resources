@@ -85,7 +85,6 @@ List of resources for [DHLab](https://dhlab-tseng.github.io) @ NYCU, Taiwan
 - European Federation for Medical informatics (EFMI) [Website](https://www.efmi.org/)
 - International Medical Informatics Association (IMIA) [Website](http://www.imia-medinfo.org/wp)
 - IEEE Engineering in Medicine and Biology Society (EMBS) [Website](http://www.embs.org/)
-- 台灣資料科學學會 [Website](http://foundation.datasci.tw/)
 - 台灣醫學資訊學會 [Website](http://www.medinfo.org.tw/)
 
 ## 有關論文
