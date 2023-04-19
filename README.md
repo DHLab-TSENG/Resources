@@ -7,13 +7,13 @@ List of resources for [DHLab](https://dhlab-tseng.github.io) @ NYCU, Taiwan
 ## 開學前
 - [閱讀清單](https://github.com/DHLab-TSENG/Resources/blob/master/ReadingList.md) 
 
-## Tools
+## Tools - 開始研究後
 
 ### Reference manager 請在開始讀論文前選一個喜歡的軟體管理文章/筆記
 - Zotero [Website](https://www.zotero.org/)
   - [使用教學](http://tul.blog.ntu.edu.tw/archives/category/%E5%85%B6%E4%BB%96%E6%9B%B8%E7%9B%AE%E7%AE%A1%E7%90%86%E8%BB%9F%E9%AB%94/zotero)
 - Mendeley [Website](https://www.mendeley.com/)
-  - [使用教學](http://tul.blog.ntu.edu.tw/archives/5344)
+  - [使用教學](http://tul.blog.ntu.edu.tw/archives/5344)
 - EndNote
 
 ### Coding book for EHR
