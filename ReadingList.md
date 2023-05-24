@@ -24,6 +24,7 @@
 - 機器學習2022 (台大李宏毅教授線上課程) [YouTube channel](https://www.youtube.com/watch?v=7XZR0-4uS5s&list=PLJV_el3uVTsPM2mM-OQzJXziCGJa8nJL8)
 
 ## Time-series Data Analysis/Machine Learning with EHR
+- A deep learning algorithm to predict risk of pancreatic cancer from disease trajectories [Paper](https://www.nature.com/articles/s41591-023-02332-5)
 - Assessment of Deep Learning Using Nonimaging Information and Sequential Medical Records to Develop a Prediction Model for Nonmelanoma Skin Cancer [Paper](https://jamanetwork.com/journals/jamadermatology/fullarticle/2749356)
 - High-throughput phenotyping with electronic medical record data using a common semi-supervised approach [Paper](https://www.nature.com/articles/s41596-019-0227-6)
 - Deep learning on time series laboratory test results from electronic health records for early detection of pancreatic cancer [Paper](https://linkinghub.elsevier.com/retrieve/pii/S1532046422001113)
