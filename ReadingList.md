@@ -23,7 +23,12 @@
 ### Machine Learning
 - 機器學習2022 (台大李宏毅教授線上課程) [YouTube channel](https://www.youtube.com/watch?v=7XZR0-4uS5s&list=PLJV_el3uVTsPM2mM-OQzJXziCGJa8nJL8)
 
+## Multimodal Learning with EHR
+- Integrated multimodal artificial intelligence framework for healthcare applications [Paper](https://www.nature.com/articles/s41746-022-00689-4)
+- Bidirectional Representation Learning From Transformers Using Multimodal Electronic Health Record Data to Predict Depression [Paper](https://ieeexplore.ieee.org/document/9369833/)
+
 ## Time-series Data Analysis/Machine Learning with EHR
+- Developing machine learning algorithms for dynamic estimation of progression during active surveillance for prostate cancer [Paper](https://www.nature.com/articles/s41746-022-00659-w)
 - A deep learning algorithm to predict risk of pancreatic cancer from disease trajectories [Paper](https://www.nature.com/articles/s41591-023-02332-5)
 - Assessment of Deep Learning Using Nonimaging Information and Sequential Medical Records to Develop a Prediction Model for Nonmelanoma Skin Cancer [Paper](https://jamanetwork.com/journals/jamadermatology/fullarticle/2749356)
 - High-throughput phenotyping with electronic medical record data using a common semi-supervised approach [Paper](https://www.nature.com/articles/s41596-019-0227-6)
@@ -40,6 +45,8 @@ TBD
 - Mining tasks and task characteristics from electronic health record audit logs with unsupervised machine learning [Paper](https://academic.oup.com/jamia/article-abstract/28/6/1168/6133907)
 - Unsupervised machine learning for the discovery of latent disease clusters and patient subgroups using electronic health records [Paper](https://www.sciencedirect.com/science/article/pii/S1532046419302849)
 - Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records [Paper](https://www.nature.com/articles/srep26094)
+- Developing machine learning algorithms for dynamic estimation of progression during active surveillance for prostate cancer [Paper](https://www.nature.com/articles/s41746-022-00659-w)
+
 TBD
 
-Update: 2023/05/24
+Update: 2023/12/07
