@@ -4,25 +4,29 @@
 
 ## 論文check list
 
-各項教學可參考[圖書館論文寫作懶人包](https://news.lib.nctu.edu.tw/category/researches/writing-research-papers/)
+各項教學可參考[圖書館論文寫作懶人包](https://news.lib.nycu.edu.tw/category/researches/writing-research-papers/)
 
-1. 參照[陽明交大註冊組](https://aa.nycu.edu.tw/reg/regulation/)，**碩博士論文規範**，確認論文符合該規範。常見的錯誤有：
+1. 先決定撰寫工具 Word or Latex
+    - Latex: 請用陽明交大的email申請overleaf帳號，可搭配Writefull使用 [說明](https://news.lib.nycu.edu.tw/researches/overleaf/)
+    - Latex: 格式部分可參考 https://github.com/JingWangTW/NYCU-Thesis-Template
+    - Word: 就是word，可參考第4點的格式設定
+3. 使用書目管理軟體編輯參考文獻，相關資訊可參考[圖書館書目管理軟體說明](https://news.lib.nycu.edu.tw/researches/endnote%e3%80%81mendeley%e3%80%81zotero%e6%9b%b8%e7%9b%ae%e7%ae%a1%e7%90%86%e8%bb%9f%e9%ab%94%e9%80%9f%e9%85%8d%e6%8c%87%e5%8d%97/)，建議使用Zotero or Mendeley，格式選用IEEE
+4. 參照[陽明交大註冊組](https://aa.nycu.edu.tw/reg/regulation/)，**碩博士論文規範**，確認論文符合該規範。常見的錯誤有：
     - 封面與側邊樣式
     - 中英文摘要與關鍵字是否有加上
     - 頁碼格式是否有符合規定
     - 目錄格式與相對應頁碼是否正確
     - 圖目錄與表目錄的格式頁碼
     - 參考資料格式
-2. 使用書目管理軟體編輯參考文獻，相關資訊可參考[圖書館書目管理軟體說明](https://news.lib.nctu.edu.tw/category/researches/reference-management-tools/)，建議使用Mendeley or Endnote，格式選用IEEE
-3. 確認每張圖與表都有出現在本文，且編號正確
-4. 各種格式細節
-    - 大章節建議由新頁開始（插入分頁符號）
+5. 確認每張圖與表都有出現在本文，且編號正確
+6. 各種格式細節
+    - 大章節建議由新頁開始（word插入分頁符號）
     - 全文**縮排**階層是否有統一？
     - **表格**的標題在上，**圖片**的標題在下
     - **圖表標題**是否都能獨立閱讀呢？只看到標題是否會搞不清楚狀況呢（這樣０分！）？
     - 圖標與表標請直接寫出表格與圖片的重要內容
         - 如："xxxxx預測模型效能比較"，或是“xxxx實驗組與對照組之病患特徵分析”
-        - 錯誤範例：“模型效能盒鬚圖”
+        - **錯誤範例**：“模型效能盒鬚圖”
         - 可參考[我是否應該將研究數據放在本文或表格中？](https://www.editing.tw/blog/%E8%8B%B1%E6%96%87%E8%AB%96%E6%96%87%E5%AF%AB%E4%BD%9C%E6%8A%80%E5%B7%A7/%E8%AB%96%E6%96%87%E5%AF%AB%E4%BD%9C%E6%8A%80%E5%B7%A7/%E6%88%91%E6%98%AF%E5%90%A6%E6%87%89%E8%A9%B2%E5%B0%87%E7%A0%94%E7%A9%B6%E6%95%B8%E6%93%9A%E6%94%BE%E5%9C%A8%E6%9C%AC%E6%96%87%E6%88%96%E8%A1%A8%E6%A0%BC%E4%B8%AD%EF%BC%9F)內文說明
     - 第一次出現的**縮寫**都有全名嗎？後面出現的是否都是縮寫呢？（常見錯誤：複製貼上太爽，沒有加上全名或是一直出現全名，摘要算是獨立文件，因此本文第一次出現的縮寫仍需要全名）
     - 小數點位數（四捨五入到幾位）是否有統一呢？
