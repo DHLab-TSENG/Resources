@@ -1,6 +1,8 @@
 # 論文寄出前必看清單
-**重要**：請寄出前再看一次有沒有錯字
+**重要**：請寄出前再看一次有沒有錯字，文法可使用Writefull檢查，但Writefull也可能出錯，要自行判斷。
 
+- [Writefull和其他工具比較](https://news.lib.nycu.edu.tw/researches/writefull/)
+- [Writefull NYCU專業版與外掛說明](https://www.lib.nycu.edu.tw/custom?menu=125&cid=411)
 
 ## 論文check list
 
@@ -9,7 +11,7 @@
 1. 先決定撰寫工具 Word or Latex
     - Latex: 請用陽明交大的email申請overleaf帳號，可搭配Writefull使用 [說明](https://news.lib.nycu.edu.tw/researches/overleaf/)
     - Latex: 格式部分可參考 https://github.com/JingWangTW/NYCU-Thesis-Template
-    - Word: 就是word，可參考第4點的格式設定
+    - Word: 就是word，可參考第4點的格式設定，可搭配Writefull的word外掛使用
 3. 使用書目管理軟體編輯參考文獻，相關資訊可參考[圖書館書目管理軟體說明](https://news.lib.nycu.edu.tw/researches/endnote%e3%80%81mendeley%e3%80%81zotero%e6%9b%b8%e7%9b%ae%e7%ae%a1%e7%90%86%e8%bb%9f%e9%ab%94%e9%80%9f%e9%85%8d%e6%8c%87%e5%8d%97/)，建議使用Zotero or Mendeley，格式選用IEEE
 4. 參照[陽明交大註冊組](https://aa.nycu.edu.tw/reg/regulation/)，**碩博士論文規範**，確認論文符合該規範。常見的錯誤有：
     - 封面與側邊樣式
