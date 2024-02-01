@@ -9,7 +9,7 @@
 各項教學可參考[圖書館論文寫作懶人包](https://news.lib.nycu.edu.tw/category/researches/writing-research-papers/)
 
 1. 先決定撰寫工具 Word or Latex
-    - Latex: 請用陽明交大的email申請overleaf帳號，可搭配Writefull使用 [說明](https://news.lib.nycu.edu.tw/researches/overleaf/)
+    - Latex: 請用陽明交大的email申請overleaf帳號，此專業版帳號可開啟共同編輯，方便後續修改，可搭配Writefull使用 [說明](https://news.lib.nycu.edu.tw/researches/overleaf/)
     - Latex: 格式部分可參考 https://github.com/JingWangTW/NYCU-Thesis-Template
     - Word: 就是word，可參考第4點的格式設定，可搭配Writefull的word外掛使用
 3. 使用書目管理軟體編輯參考文獻，相關資訊可參考[圖書館書目管理軟體說明](https://news.lib.nycu.edu.tw/researches/endnote%e3%80%81mendeley%e3%80%81zotero%e6%9b%b8%e7%9b%ae%e7%ae%a1%e7%90%86%e8%bb%9f%e9%ab%94%e9%80%9f%e9%85%8d%e6%8c%87%e5%8d%97/)，建議使用Zotero or Mendeley，格式選用IEEE
