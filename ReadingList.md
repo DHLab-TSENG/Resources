@@ -10,6 +10,8 @@
 ### Machine Learning with Python
 - kaggle - python - Intro to machine learning [Website](https://www.kaggle.com/learn/intro-to-machine-learning)
 - kaggle - python - Intermediate machine learning [Website](https://www.kaggle.com/learn/intermediate-machine-learning)
+- kaggle - python - Feature Engineering [Website](https://www.kaggle.com/learn/feature-engineering)
+- kaggle - python - Time Series [Website](https://www.kaggle.com/learn/time-series)
 - kaggle - python - Machine Learning Explainability [Website](https://www.kaggle.com/learn/machine-learning-explainability)
 - kaggle - python - Intro to Deep Learning [Website](https://www.kaggle.com/learn/intro-to-deep-learning)
 
