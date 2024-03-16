@@ -12,9 +12,16 @@
 - kaggle - python - Intermediate machine learning [Website](https://www.kaggle.com/learn/intermediate-machine-learning)
 - kaggle - python - Machine Learning Explainability [Website](https://www.kaggle.com/learn/machine-learning-explainability)
 - kaggle - python - Intro to Deep Learning [Website](https://www.kaggle.com/learn/intro-to-deep-learning)
-- OpenAI - Spinning Up in Deep RL [Website](https://spinningup.openai.com/en/latest/index.html)
 
-### ML in medicine
+### Deep Learning Specialization課程
+- [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
+- [Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+- [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
+- [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+- [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
+- 其他: OpenAI - Spinning Up in Deep RL [Website](https://spinningup.openai.com/en/latest/index.html)
+
+### ML/DL in medicine
 - AI for Medicine Specialization課程-1 [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis?specialization=ai-for-medicine)
 - AI for Medicine Specialization課程-2 [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis?specialization=ai-for-medicine)
 - AI for Medicine Specialization課程-3 [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment?specialization=ai-for-medicine)
