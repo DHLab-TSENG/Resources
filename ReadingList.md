@@ -15,11 +15,13 @@
 - OpenAI - Spinning Up in Deep RL [Website](https://spinningup.openai.com/en/latest/index.html)
 
 ### ML in medicine
+- AI for Medicine Specialization課程-1 [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis?specialization=ai-for-medicine)
+- AI for Medicine Specialization課程-2 [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis?specialization=ai-for-medicine)
+- AI for Medicine Specialization課程-3 [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment?specialization=ai-for-medicine)
 - [Reporting Use of AI in Research and Scholarly Publication—JAMA Network Guidance](https://jamanetwork.com/journals/jama/fullarticle/2816213)
 - [Transparent reporting of a multivariable prediction model for individual prognosis or diagnosis](https://www.equator-network.org/reporting-guidelines/tripod-statement/)
 - [The need to separate the wheat from the chaff in medical informatics: Introducing a comprehensive checklist for the (self)-assessment of medical AI studies](https://www.sciencedirect.com/science/article/pii/S1386505621001362)
 - Liu Y, Chen PH, Krause J, Peng L. How to Read Articles That Use Machine Learning: Users' Guides to the Medical Literature. JAMA, 2019. [Paper](https://paperpile.com/shared/Jtc1tu)
-- DeepLearning.AI - AI for Medicine Specialization [Website](https://www.deeplearning.ai/program/ai-for-medicine-specialization/)
 
 ### Machine Learning
 - 機器學習2022 (台大李宏毅教授線上課程) [YouTube channel](https://www.youtube.com/watch?v=7XZR0-4uS5s&list=PLJV_el3uVTsPM2mM-OQzJXziCGJa8nJL8)
