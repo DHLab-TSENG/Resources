@@ -15,6 +15,7 @@
 - OpenAI - Spinning Up in Deep RL [Website](https://spinningup.openai.com/en/latest/index.html)
 
 ### ML in medicine
+- [Reporting Use of AI in Research and Scholarly Publication—JAMA Network Guidance](https://jamanetwork.com/journals/jama/fullarticle/2816213)
 - [Transparent reporting of a multivariable prediction model for individual prognosis or diagnosis](https://www.equator-network.org/reporting-guidelines/tripod-statement/)
 - [The need to separate the wheat from the chaff in medical informatics: Introducing a comprehensive checklist for the (self)-assessment of medical AI studies](https://www.sciencedirect.com/science/article/pii/S1386505621001362)
 - Liu Y, Chen PH, Krause J, Peng L. How to Read Articles That Use Machine Learning: Users' Guides to the Medical Literature. JAMA, 2019. [Paper](https://paperpile.com/shared/Jtc1tu)
