@@ -59,6 +59,8 @@ TBD
 - Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records [Paper](https://www.nature.com/articles/srep26094)
 - Developing machine learning algorithms for dynamic estimation of progression during active surveillance for prostate cancer [Paper](https://www.nature.com/articles/s41746-022-00659-w)
 
-TBD
+## Generalist Biomedical AI
+-  Towards Generalist Biomedical AI [Paper](https://ai.nejm.org/doi/full/10.1056/AIoa2300138)
+-  Foresight—a generative pretrained transformer for modelling of patient timelines using electronic health records: a retrospective modelling study [Paper](https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2824%2900025-6/fulltext)
 
 Update: 2023/12/07
