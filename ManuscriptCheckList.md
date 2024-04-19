@@ -7,8 +7,8 @@
 ## 論文check list
 
 各項教學可參考[圖書館論文寫作懶人包](https://news.lib.nycu.edu.tw/category/researches/writing-research-papers/)
-
-1. 先決定撰寫工具 Word or Latex
+1. 如果是ML in medicine 題目，先確認有遵照 [guidance for reporting clinical prediction models that use regression or machine learning methods](https://www.bmj.com/content/bmj/385/bmj-2023-078378.full.pdf)設計實驗
+2. 先決定撰寫工具 Word or Latex
     - Latex: 請用陽明交大的email申請overleaf帳號，此專業版帳號可開啟共同編輯，方便後續修改，可搭配Writefull使用 [說明](https://news.lib.nycu.edu.tw/researches/overleaf/)
     - Latex: 格式部分可參考 https://github.com/JingWangTW/NYCU-Thesis-Template
     - Word: 就是word，可參考第4點的格式設定，可搭配Writefull的word外掛使用
