@@ -13,10 +13,10 @@ for f in files_xlsx:
     csvf = re.sub("xlsx","csv",f)
     if(os.path.isfile(csvf)):
         print(csvf+" file exist")
-        next
+        continue
     print("old file: "+f+", new file: "+csvf)
 
-    read_file = pd.read_excel (f) 
+    read_file = pd.read_excel (f, sheet_name='工作表1') 
     read_file.to_csv (csvf,  
                     index = None, 
                     header=True) 
