@@ -10,10 +10,10 @@
 1. 如果是ML in medicine 題目，先確認有遵照 [guidance for reporting clinical prediction models that use regression or machine learning methods](https://www.bmj.com/content/bmj/385/bmj-2023-078378.full.pdf)設計實驗，撰寫論文時也務必記得要遵照此指引
 2. 先決定撰寫工具 Word or Latex
     - Latex: 請用陽明交大的email申請overleaf帳號，此專業版帳號可開啟共同編輯，方便後續修改，可搭配Writefull使用 [說明](https://news.lib.nycu.edu.tw/researches/overleaf/)
-    - Latex: 格式部分可參考 https://github.com/JingWangTW/NYCU-Thesis-Template
+    - Latex: 格式部分可參考 [https://github.com/JingWangTW/NYCU-Thesis-Template](https://github.com/coldwufish/NYCU-thesis-template)
     - Word: 就是word，可參考第4點的格式設定，可搭配Writefull的word外掛使用
 3. 使用書目管理軟體編輯參考文獻，相關資訊可參考[圖書館書目管理軟體說明](https://news.lib.nycu.edu.tw/researches/endnote%e3%80%81mendeley%e3%80%81zotero%e6%9b%b8%e7%9b%ae%e7%ae%a1%e7%90%86%e8%bb%9f%e9%ab%94%e9%80%9f%e9%85%8d%e6%8c%87%e5%8d%97/)，建議使用Zotero or Mendeley，格式選用IEEE
-4. 參照[陽明交大註冊組](https://aa.nycu.edu.tw/reg/regulation/)，**碩博士論文規範**，確認論文符合該規範。常見的錯誤有：
+4. 參照[陽明交大註冊組](https://aa.nycu.edu.tw/aa/ch/app/data/list?module=nycu0038&id=2468)，**碩博士論文規範**，確認論文符合該規範。常見的錯誤有：
     - 封面與側邊樣式
     - 中英文摘要與關鍵字是否有加上
     - 頁碼格式是否有符合規定
