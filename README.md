@@ -65,8 +65,4 @@ List of resources for [DHLab](https://dhlab-tseng.github.io) @ NYCU, Taiwan
 
 - [畢業交接清單](https://github.com/DHLab-TSENG/Resources/blob/master/GraduationChecklist.md)
 
-## 有關程式
-
-- 在R中有效的使用路徑 [開始寫R程式前應知道的好習慣](https://github.com/DHLab-CGU/Resources/blob/master/RPathUse.md)
-
 
