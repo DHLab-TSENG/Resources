@@ -63,7 +63,7 @@
 3. Methods
     - 逐一分章節介紹方法
     - 應用資料集的介紹也要記得寫 (醫學資料須加上IRB敘述)，如果是第4章是Experimental settings的話，則是寫在Experimental settings。
-    - 最後一個章節描述統計方法 (如果有的話)，如果是第4章是Experimental settin的話，則是寫在Experimental settings。
+    - 最後一個章節描述統計方法 (如果有的話)，如果是第4章是Experimental settings的話，則是寫在Experimental settings。
 4. Results
     - 先決定圖表內容和順序
     - 使用文字詳細描述圖表
