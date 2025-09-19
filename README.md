@@ -42,6 +42,7 @@ List of resources for [DHLab](https://dhlab-tseng.github.io) @ NYCU, Taiwan
 
 ## Conferences
 
+- CS/ML conferences
 - AMIA Annual Symposium 
 - Medical Informatics Europe (MIE)
 - MedInfo 
