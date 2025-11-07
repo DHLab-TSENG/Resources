@@ -11,7 +11,6 @@ Frequently Asked Questions and Answers for [DHLab](https://dhlab-tseng.github.io
 
 並且願意學習程式語言，那DHLab可能會是妳/你想要加入的團隊！歡迎[寫信](mailto:yjtseng@nycu.edu.tw)/[留言](https://github.com/DHLab-TSENG/Resources/issues)/直接來[陽明交大資工系](https://www.cs.nycu.edu.tw/members/prof)敲門～
 
-BUT!!
 
 如果你看到一大堆看不懂的數字或文字會**崩潰**，那DHLab應該不太適合妳/你
 
@@ -32,15 +31,15 @@ BUT!!
 ### 可用資源與訓練
 
 硬體：
-- GeForce RTX 3090/4090等 GPU server
+- GeForce RTX 3090/4090/5090等 GPU server
+- 學校HPC資源
 - 研究用電腦等
 
 ### 對未來工作的可能幫助
 
 經過實驗室的訓練後，可以熟練地完成下列任務
 
-- 使用Python做資料處理與分析
-    - 通常**資料分析師**或**資料科學家**等職位會要求至少會Python
+- 資料處理與分析
 - 建模 / 改善模型效能
     - Machine learning/deep learning 
 - 專案口頭報告
@@ -82,7 +81,8 @@ DHLab開會分為**個人進度或小組報告**跟**團體報告**，目的不�
 
 - ...
 - CIM系統工程師
-- 數據分析師、數據工程師
+- 數據分析師
+- 數據工程師
 - 資訊工程師
 - 資訊護理師
 
