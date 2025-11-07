@@ -19,6 +19,9 @@ Frequently Asked Questions and Answers for [DHLab](https://dhlab-tseng.github.io
 另外若對醫學研究/名詞害怕，可先看一下實驗室最近的[碩士論文](https://ndltd.ncl.edu.tw/)（搜尋指導教授為曾意儒）與[論文](https://scholar.google.com.tw/citations?hl=zh-TW&user=d8N328MAAAAJ&view_op=list_works&sortby=pubdate)發表，看看是不是自己喜歡的，再做決定。
 
 
+### 怎麼選題目？
+
+在碩一開學前會給目前實驗室有的資料清單以及相對應的醫學應用情境，碩一一開始即選定一個題目。但仍有調整與換題目的空間。
 
 ### 在DHLab的每日時間分配
 
